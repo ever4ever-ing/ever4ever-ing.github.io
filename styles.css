@@ -117,6 +117,7 @@ h2 {
 
 .skill-meter {
     background-color: #e0e0e0;
+    color: black;
     height: 30px;
     border-radius: 15px;
     overflow: hidden;
